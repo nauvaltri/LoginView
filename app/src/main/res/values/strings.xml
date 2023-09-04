@@ -1,0 +1,10 @@
+<resources>
+    <string name="login">Sign In</string>
+    <string name="email">Email</string>
+    <string name="Sandi">Sandi</string>
+    <string name="app_name">WELCOME,AsaKITAsama</string>
+    <string name="or">---------------- OR ---------------</string>
+    <string name="remember">Remember Me</string>
+    <string name="log">LOG IN</string>
+    <string name="forget">Forgot Password ?</string>
+</resources>
